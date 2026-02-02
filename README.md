@@ -1,4 +1,5 @@
 <center># 💫 About Me:
+<br>
 As a Devops Engineer, I specialize in mentoring and applying cutting-edge cloud technologies on the Amazon Web Services (AWS)☁️ platform with DevOps tools<br><br>Here's a snapshot of my journey:🧑‍🚀🚀<br><br>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FqazdsOXViZWNweXVjOGFwb2tid3RnM3liMXZrMjhldGU2N3A2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif">
 1. Primary Responsibilities:💻<br>- Design, implement, and manage cloud solutions on AWS with DevOps tools<br>- Mentor students and professionals on the latest AWS practices with Industrial projects<br><br>
