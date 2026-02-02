@@ -1,22 +1,106 @@
-<center># 💫 About Me:
-<br>
-As a Devops Engineer, I specialize in mentoring and applying cutting-edge cloud technologies on the Amazon Web Services (AWS)☁️ platform with DevOps tools<br><br>Here's a snapshot of my journey:🧑‍🚀🚀<br><br>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FqazdsOXViZWNweXVjOGFwb2tid3RnM3liMXZrMjhldGU2N3A2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif">
-1. Primary Responsibilities:💻<br>- Design, implement, and manage cloud solutions on AWS with DevOps tools<br>- Mentor students and professionals on the latest AWS practices with Industrial projects<br><br>
-2. AWS Hands-On Experience:⚙️<br>- Proficient in AWS services such as EC2, S3,VPC, CloudWatch, SNS, RDS, Redshift <br>3. Key Achievements:💎<br>- Successfully designed and managed scalable, secure cloud solutions for various clients.<br>- Collaborated effectively with cross-functional teams and stakeholders.<br>- Migrated and modernized applications to leverage cloud-native services.<br><br>4. Upgrading in the Cloud ☁️ Security<br>- Passionate about cloud computing and continuously advancing my skills, pursuing higher education in cloud ☁️ domain.<br><br>5. Continuous Learning & Growth:🪃<br>- Engaged in continuous learning through AWS training, webinars, and community involvement.<br>- Committed to staying at the forefront of the ever-evolving AWS ecosystem.<br><br>6. Core Skills:🌐<br>Overall, my experience as an AWS Solutions Architect involved a combination of<br><br>- Technical Expertise🧭: Deep knowledge of AWS services and solutions.<br><br>- Design Skills🎡: Crafting reliable, cost-effective cloud architectures.<br><br>- Communication🗣️:Clear and effective communication with teams and clients.<br><br>✨With a solid foundation in AWS & DevOps<br>a passion for cloud solutions,<br>As a solutions architect, helping clients achieve their goals through innovative cloud technology..💪<br><br>I have collaborated with cross-functional teams, communicated effectively with stakeholders, and optimized costs and resources. ✨
-<!-- Copy-paste in your Readme.md file -->
+<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h3 align="center">Student at MITS, Gwalior 🌟 | Aspiring DevOps & Cloud Engineer ☁️</h3>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="815" height="auto">
-  </picture>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" />
+</p>
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif">
+
+---
+
+## 💫 About Me
+
+- 🌱 Currently learning **Web Development, Cloud & DevOps**
+- 💻 Passionate about **AWS, DevOps tools & Cloud Architecture**
+- 🎓 Mentoring students and professionals with **industry-level projects**
+- ⚡ Fun fact: **Food 🍔 + Music 🎵 = Life**
+
+📫 **Reach me at:**  
+**adampithewan@gmail.com**
+
+---
+
+## 🧑‍🚀 Professional Snapshot
+
+### 💻 Primary Responsibilities
+- Design, implement, and manage **AWS Cloud solutions**
+- Apply **DevOps best practices** with CI/CD pipelines
+- Mentor learners on **real-world industrial projects**
+
+### ⚙️ AWS Hands-on Experience
+- EC2, S3, VPC, CloudWatch  
+- SNS, RDS, Redshift  
+
+### 💎 Key Achievements
+- Built scalable & secure cloud architectures
+- Migrated legacy apps to **cloud-native services**
+- Collaborated with cross-functional teams & stakeholders
+
+### ☁️ Cloud Security & Growth
+- Actively upgrading skills in **Cloud Security**
+- Continuous learning through AWS trainings & webinars
+
+---
+
+## 🌐 Core Skills
+
+- 🧭 **Technical Expertise:** Deep AWS & DevOps knowledge  
+- 🎡 **Design Skills:** Cost-effective, reliable architectures  
+- 🗣️ **Communication:** Clear interaction with teams & clients  
+
+✨ Helping clients achieve goals through **innovative cloud solutions**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/adam-pithewan/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<br>
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pankeshdange&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pankeshdange&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankeshdange&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://instagram.com/_._.adam._" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://twitter.com/adam_pithenwala" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/adampithewan" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=highcontrast" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adam-pw&theme=highcontrast" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-pw&layout=compact&theme=highcontrast" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Let’s build something awesome together 🚀
