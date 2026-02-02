@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior 🌟 | Aspiring DevOps & Cloud Engineer ☁️</h3>
+<h1 align="center">Hi 👋, I'm Pankesh Dange</h1>
+<h3 align="center">🌟 | DevOps & Cloud Engineer ☁️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" />
@@ -17,7 +17,7 @@
 - ⚡ Fun fact: **Food 🍔 + Music 🎵 = Life**
 
 📫 **Reach me at:**  
-**adampithewan@gmail.com**
+**Pankeshdange@gmail.com**
 
 ---
 
@@ -56,16 +56,16 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/adam-pithewan/" target="_blank">
+<a href="https://www.linkedin.com/in/pankeshd//" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/_._.adam._" target="_blank">
+<a href="--------------" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://twitter.com/adam_pithenwala" target="_blank">
+<a href="-----------------" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/adampithewan" target="_blank">
+<a href="-----------------" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
 </a>
 </p>
