@@ -1,4 +1,4 @@
-![logo] (https://github.com/pankeshdange/Fisrt-repository/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+![logo](https://github.com/pankeshdange/Fisrt-repository/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Pankesh Dange</h1>
 <h3 align="center">🌟 | DevOps & Cloud Engineer ☁️</h3>
 
