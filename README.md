@@ -27,7 +27,7 @@
 - Design, implement, and manage **AWS Cloud solutions**
 - Apply **DevOps best practices** with CI/CD pipelines
 - Mentor learners on **real-world industrial projects**
-- <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFxcmE3YTJ6MHp0ZzR5ZGZqdDV5ZWhiMzYxM2diN3BtcGJzdnlscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
+- <img align="right" alt="coding" width="400" src="https://app.lottiefiles.com/share/4895f9e3-d5cb-40b9-8ebf-f73a548a6954">
 
 
 ### ⚙️ AWS Hands-on Experience
