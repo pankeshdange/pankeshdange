@@ -7,8 +7,6 @@
 </p>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFxcmE3YTJ6MHp0ZzR5ZGZqdDV5ZWhiMzYxM2diN3BtcGJzdnlscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
-
 ---
 
 ## 💫 About Me
@@ -29,6 +27,8 @@
 - Design, implement, and manage **AWS Cloud solutions**
 - Apply **DevOps best practices** with CI/CD pipelines
 - Mentor learners on **real-world industrial projects**
+- <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFxcmE3YTJ6MHp0ZzR5ZGZqdDV5ZWhiMzYxM2diN3BtcGJzdnlscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
+
 
 ### ⚙️ AWS Hands-on Experience
 - EC2, S3, VPC, CloudWatch  
