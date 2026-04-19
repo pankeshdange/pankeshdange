@@ -5,8 +5,10 @@
 <p align="center">
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif">
----
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pankeshdange&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ## 💫 About Me
 
 - 🌱 Currently learning **Web Development, Cloud & DevOps**
@@ -77,7 +79,3 @@
 
 ⭐ **Thanks for visiting my profile!**  
 Let’s build something awesome together 🚀
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankeshdange&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
