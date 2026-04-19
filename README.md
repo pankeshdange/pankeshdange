@@ -3,12 +3,12 @@
 <h3 align="center">🌟 | DevOps & Cloud Engineer ☁️</h3>
 
 <p align="center">
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif">
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pankeshdange&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif">
+
+
 ## 💫 About Me
 
 - 🌱 Currently learning **Web Development, Cloud & DevOps**
