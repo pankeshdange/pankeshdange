@@ -76,11 +76,8 @@
   <img src="https://komarev.com/ghpvc/?username=pankeshdange&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adam-pw&theme=highcontrast" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pankeshdange&theme=onestar" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-pw&layout=compact&theme=highcontrast" /> </p>
 
 ---
 
