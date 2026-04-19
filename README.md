@@ -3,8 +3,6 @@
 <h3 align="center">🌟 | DevOps & Cloud Engineer ☁️</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" />
-</p>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif">
 ---
