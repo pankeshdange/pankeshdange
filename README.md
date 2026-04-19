@@ -73,9 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=highcontrast" />
+  <img src="https://komarev.com/ghpvc/?username=pankeshdange&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=adam-pw&theme=highcontrast" />
 </p>
