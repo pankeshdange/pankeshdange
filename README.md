@@ -74,10 +74,7 @@
 
 ## 📊 GitHub Stats
  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&theme=highcontrast" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=adam-pw&theme=highcontrast" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-pw&layout=compact&theme=highcontrast" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pankeshdange-pw&show_icons=true&theme=highcontrast" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=pankeshdange-pw&theme=highcontrast" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankeshdange-pw&layout=compact&theme=highcontrast" /> </p>
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankeshdange&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
 ⭐ **Thanks for visiting my profile!**  
 Let’s build something awesome together 🚀
